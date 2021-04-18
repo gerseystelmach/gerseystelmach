@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently learning PHP and Symfony.
-- 🥅 **2021 Goals**: keep improving my dev skills and get a first job as developer.
+- 🥅 **2021 Goals**: keep improving my dev skills and start working as a web developer.
 - ⚡ **Fun fact**: I used to create customized templates for blogs (photoshop + html) at the age of 12. 
 
 
