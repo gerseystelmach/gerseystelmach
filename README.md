@@ -10,6 +10,7 @@
 - 🔭 I’m currently learning PHP and Symfony.
 - 🥅 **2021 Goals**: keep improving my dev skills and start working as a web developer.
 - ⚡ **Fun fact**: I used to create customized templates for blogs (photoshop + html) at the age of 12. 
+- :sparkling_heart: Passionate about design, UI and front-end development, although I'm currently exploring the back-end universe.
 
 
 <h3 align="left">Connect with me:</h3>
