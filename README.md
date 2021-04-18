@@ -3,7 +3,7 @@
 
 💻 Studying Web Developpment at [Wild Code School](https://www.wildcodeschool.com/)<br>
 :office: Attorney specialized in digital law in a career change to become Web Dev <br>
-🏡 Based in Orléans (France) since october 2019 but born in Brazil 🌅:brazil:<br>
+🏡 Based in Orléans (France :fr:) since october 2019 but born in Brazil 🌅:brazil:<br>
 
 
 
