@@ -2,7 +2,7 @@
 ### Hi there, I'm Gersey 👋
 
 💻 Studying Web Developpment at [Wild Code School](https://www.wildcodeschool.com/)  in Orléans, France <br>
-:office: Attorney specialized in digital law in career change to become Web Dev <br>
+:office: Attorney specialized in digital law in a career change to become Web Dev <br>
 🏡 Based in Orléans (France) since october 2019 but born in Brazil 🌅<br>
 
 
