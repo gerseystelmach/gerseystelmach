@@ -1,17 +1,10 @@
 
 ### Hi there, I'm Gersey 👋
 
-💻 Studying Application Developpment at [Wild Code School](https://www.wildcodeschool.com/)<br>
-:office: Attorney specialized in digital law in a career change to become Web Dev <br>
-🏡 Based in Orléans (France :fr:) since october 2019 but born in Brazil 🌅:brazil:<br>
-
-
-
-- 🔭 I’m currently learning Java.
-- 🥅 **2021 Goals**: keep improving my dev skills.
-- ⚡ **Fun fact**: I used to create customized templates for blogs (photoshop + html) at the age of 12. 
-- :sparkling_heart: Passionate about design, UI and front-end development, although I'm exploring the back-end universe.
-
+💻 Full-stack web developer<br>
+:office: Attorney specialized in digital law <br>
+🏡 Based in France since october 2019 but born in Brazil 🌅<br>
+🔭 I work with Java, C#, PHP and Javascript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
